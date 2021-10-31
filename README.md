@@ -72,7 +72,10 @@ Caso seja a primeira vez:
 
 ```yarn deploy```
 
-Caso precise limpa
+Para limpa:
 
 ```yarn serverless remove```
 
+
+
+https://www.notion.so/Desafio-01-Construindo-com-serverless-1fdde2c717a94f7aa077e746cb077bec#43710864611c4079ad6428f2d9aa2213
