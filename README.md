@@ -64,9 +64,15 @@ Saber se ja tem essa credecial:
 
 ```ls```
 Se ja existi e so utilisa  aflag -o
-```serverless config credentials --provider aws --key=AKIAYORDYZYHLBI4XWAD --secret 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 -o```
+```yarn serverless config credentials --provider aws --key=AKIAYORDYZYHLBI4XWAD --secret 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 -o```
+
 
 Caso seja a primeira vez:
-```serverless config credentials --provider aws --key=AKIAYORDYZYHLBI4XWAD --secret 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```
+```yarn serverless config credentials --provider aws --key=AKIAYORDYZYHLBI4XWAD --secret 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```
 
 ```yarn deploy```
+
+Caso precise limpa
+
+```yarn serverless remove```
+
