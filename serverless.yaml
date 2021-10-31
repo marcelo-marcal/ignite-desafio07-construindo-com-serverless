@@ -20,7 +20,7 @@ custom:
       migrate: true
 
 provider:
-  name: aws
+  name: api-rentx01
   region: sa-east-1
   runtime: nodejs14.x
   iamRoleStatements:
