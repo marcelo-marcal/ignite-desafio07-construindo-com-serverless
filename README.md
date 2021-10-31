@@ -58,4 +58,15 @@ Digita no google:
 aws sdk environment
 aws014
 
-2
+2 
+Saber se ja tem essa credecial:
+```cd ~/.aws```
+
+```ls```
+Se ja existi e so utilisa  aflag -o
+```serverless config credentials --provider aws --key=AKIAYORDYZYHLBI4XWAD --secret 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 -o```
+
+Caso seja a primeira vez:
+```serverless config credentials --provider aws --key=AKIAYORDYZYHLBI4XWAD --secret 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```
+
+```yarn deploy```
