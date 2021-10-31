@@ -5387,7 +5387,7 @@ serverless-webpack@^5.3.5:
   optionalDependencies:
     ts-node ">= 8.3.0"
 
-serverless@^2.23.0:
+serverless@^2.64.1:
   version "2.64.1"
   resolved "https://registry.yarnpkg.com/serverless/-/serverless-2.64.1.tgz#708f7000577437f5fec27efd996967d67dc66fb3"
   integrity sha512-9DErsV4ACg/2UkRoX2EYRkcDyRi3NBld/gexCeVnkmUunadSwnmtSBeVU8spvg+zc61b1vbusTHE4woqcd2gvw==
